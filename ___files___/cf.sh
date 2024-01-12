@@ -3,7 +3,7 @@ MYIP=$(wget -qO- icanhazip.com);
 apt install jq curl -y
 clear
 KOSONG=" "
-LTT="\033[95;1m  ARUNA TUNNELING\033[0m"
+LTT="\033[95;1m  LUNATIC TUNNELING\033[0m"
 BLT="\033[96;1m────────────────────────────────────────────\033[0m"
 BANNER="\033[95;1m ADD SUBDOMAIN \033[0m"
 B="\033[92;1m*\033[0m"
